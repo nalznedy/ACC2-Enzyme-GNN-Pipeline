@@ -2,7 +2,7 @@
 
 ## Study overview
 This repository contains the computational workflow used to prioritize food-derived compounds with predicted ACC2 interaction potential in a nutritional biochemistry context. The pipeline starts from curated ACC2 bioactivity records, builds scaffold-split machine-learning and deep-learning models, performs uncertainty-aware screening on FoodDB compounds, and prepares analysis outputs for downstream structural and biological follow-up.
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](WorkFlow.png)
 ## Scientific aim
 The goal is computational prioritization of candidate ACC2 binders that may inform lipid metabolic regulation hypotheses and support later biochemical and nutritional validation.
 
